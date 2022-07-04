@@ -1,0 +1,291 @@
+*
+{
+    margin: 0px;
+}
+#totalpage
+{
+    width: 99.5%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#totalblock
+{
+    width: 100%;
+    height: 100%;
+}
+#section1
+{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+}
+#imgs
+{
+    margin-top: 24px;
+    margin-left: 40px;
+}
+#subsection1a
+{
+    border:1px solid;
+    width: 35%;
+    height: 100%;
+}
+#subsection1b
+{
+    border:1px solid;
+    width: 65%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#section2
+{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    flex-direction: row;
+}
+#subsection2a
+{
+    border:1px solid;
+    width: 50%;
+    height: 100%;
+}
+#subsection2b
+{
+    border:1px solid;
+    width: 50%;
+    height: 100%;
+}
+#section3
+{
+    width: 100%;
+    height: 5%;
+    display: flex;
+    flex-direction: row;
+}
+#section4
+{
+    border:1px solid;
+    width: 100%;
+    height: 32%;
+    display: flex;
+    flex-direction: row;
+}
+#section6
+{
+    width: 100%;
+    height: 30%;
+    border:1px solid;
+}
+#section6a
+{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+}
+#section5
+{
+    width: 100%;
+    height: 3%;
+    border:1px solid;
+}
+#subsection4a
+{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+#subsection4a-1
+{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+}
+#subsection4a-2
+{
+    border:1px solid;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+}
+#subsection4a-3
+{
+    border:1px solid;
+    width: 100%;
+    height: 20%;
+}
+#subsection4a-4
+{
+    width: 100%;
+    height: 20%;
+}
+#subsection4b
+{
+
+    width: 50%;
+    height: 100%;
+}
+#subsection4b-1
+{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+}
+#subsection4b-2
+{
+    border:1px solid;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+}
+#subsection4b-3
+{
+    border:1px solid;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+}
+#subsection4a-3
+{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+}
+#subsection4b-4
+{
+    width: 100%;
+    height: 17%;
+    display: flex;
+    flex-direction: row;
+}
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-left: 29PX;
+}
+
+td {
+    padding-top: 5.2;
+}
+#subsection3a-1,#subsection3a-2,#subsection3a-3,#subsection3a-4
+{
+    border:1px solid;
+    width: 25%;
+    height: 100%;
+}
+p{
+
+    margin-top: 10px;
+    margin-left: 25px;
+}
+#para{
+    margin-top: 5px;
+    margin-left: 17px;
+}
+#subsection4aa-1,#subsection4ab-1,#subsection4bb1,#subsection4bb-21{
+    border:1px solid;
+    width: 50%;
+    height: 100%;
+}
+#subsection4aa-2,#subsection4ab-2,#subsection4bb2,#subsection4bb-22{
+    border:1px solid;
+    width: 25%;
+    height: 100%;
+}
+#subsection4aa-3,#subsection4ab-3,#subsection4bb3,#subsection4bb-23{
+
+    width: 25%;
+    height: 100%;
+}
+#subsection4b-3a,#subsection4ba-4
+{
+
+    width: 75%;
+    height: 100%;
+}
+#subsection4b-3b,#subsection4bb-4
+{
+
+    width: 25%;
+    height: 100%;
+}
+#section6a1
+{
+
+    width: 100%;
+    height: 100%;
+}
+#section6a2
+{
+    border:1px solid;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+#section6a21,#section6a22,#section6a23,#section6a24,#section6a24
+{
+
+    width: 20%;
+    height: 100%;
+}
+#section6b
+{
+
+    width: 100%;
+    height: 60%;
+}
+#section6b1
+{
+
+
+    width: 100%;
+    height: 30%;
+}
+#section6b2
+{
+
+    width: 100%;
+    height: 40%;
+}
+#last
+{
+    margin-left: 200px;
+}
+h2
+{
+    margin-top: 10px;
+    margin-bottom:0px
+}
+h3
+{
+    margin-top: 0px;
+}
+#section6b2
+{
+    width: 100%;
+    height: 40%;
+}
+#section6b3Aa
+{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
